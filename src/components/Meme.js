@@ -1,5 +1,4 @@
 import React from "react";
-import downloadjs from 'downloadjs';
 import html2canvas from 'html2canvas';
 
 export default function Meme(){
