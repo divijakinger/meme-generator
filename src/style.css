@@ -111,3 +111,22 @@ main{
     position: relative;
     left: 33%;
 }
+
+.footer-sect{
+    width: 100%;
+    background-color: #e5acf8;
+    margin: 0px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+    position: fixed;
+    bottom: 0;
+}
+
+.footer-sect > p{
+    margin: 0px;
+    text-shadow: #6d0191;
+    font-size: larger;
+    font: caption;
+}
