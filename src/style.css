@@ -113,14 +113,14 @@ main{
 }
 
 .footer-sect{
+    margin-top: 20px;
     width: 100%;
     background-color: #e5acf8;
-    margin: 0px;
     align-items: center;
     display: flex;
     justify-content: center;
     height: 10vh;
-    position: fixed;
+    position: relative;
     bottom: 0;
 }
 
